@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 I'm a perpetual learner always looking to add new skills to my toolbox!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brentonjackson&layout=compact&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_border=true&langs_count=7&hide=Blade)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brentonjackson&langs_count=8)](https://github.com/brentonjackson/github-readme-stats)
+
