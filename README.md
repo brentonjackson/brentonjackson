@@ -19,3 +19,5 @@ I'm a perpetual learner always looking to add new skills to my toolbox!
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brentonjackson&layout=compact)](https://github.com/brentonjackson/github-readme-stats)
  -->
 
+![pic](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brentonjackson&theme=vue)
+![pic](https://github-readme-streak-stats.herokuapp.com/?user=brentonjackson)
